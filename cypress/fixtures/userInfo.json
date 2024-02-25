@@ -1,0 +1,16 @@
+[
+  {
+    "userRole": "Admin",
+    "userStatus": "Enabled",
+    "employeeName": "My Th Le",
+    "userName": "mythle",
+    "empPassword": "mythle123"
+  },
+  {
+    "userRole": "Admin",
+    "userStatus": "Enabled",
+    "employeeName": "My Th Le",
+    "userName": "mythle1",
+    "empPassword": "mythle123"
+  }
+]
